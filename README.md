@@ -42,4 +42,6 @@
  
  Singtel
  - Animax
+ - NHK World
+ - Bein Sports Rugby World Cup (AS809)
  
