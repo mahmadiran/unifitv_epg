@@ -35,6 +35,7 @@
  - CNA
  - Ch U
  - ROCK Entertainment (brent.sg)
+ - Bein Sports Rugby World Cup (AS809)
  
  Mewatch
  - Global Trekker (gtc.sg)
@@ -43,5 +44,4 @@
  Singtel
  - Animax
  - NHK World
- - Bein Sports Rugby World Cup (AS809)
  
