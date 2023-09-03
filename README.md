@@ -7,18 +7,18 @@
  - Inspirasi
  - Dunia Sinema
  - Degup
- - Siar
+ - Siar (unifi.siar)
  - Unifi Sports 1
- - Bein Sports 1
- - Bein Sports 4
- - Z Thirai
- - Cineplex
- - Travel
- - Sony Yay
- - Cinema World
+ - Bein Sports 1 (unifi.bein1)
+ - Bein Sports 4 (unifi.bein4)
+ - Z Thirai (unifi.zthirai)
+ - Cineplex (unifi.ccineplex)
+ - Travel (unifi.trvl)
+ - Sony Yay (unifi.syay)
+ - Cinema World (unifi.cworld)
  
  Hong Kong Now TV
- - Now 4K
+ - Now 4K (now.4k)
  
  Vidio 
  - Champions TV 1 (ctv1)
