@@ -21,7 +21,13 @@
  - Now 4K
  
  Vidio 
+ - Champions TV 1 (ctv1)
+ - Champions TV 2 (ctv2)
  - Champions TV 3 (ctv3)
+ - Champions TV 5 (ctv5)
+ - Champions TV 6 (ctv6)
+ - Premier League TV (vid.plc)
+ - NBA TV (vid.nba)
  
  Starhub
  - Hub Sports 1 - 5 (sg.hs1 - sg.hs5)
