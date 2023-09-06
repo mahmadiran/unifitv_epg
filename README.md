@@ -33,17 +33,17 @@
  - Hub Sports 1 - 5 (sg.hs1 - sg.hs5)
  - Hub Premier 1 - 11 (sg.hp1 - sg.hp11)
  - Bein Sports 1 - 5 (sg.bein1 - sg.bein5)
-  - Ch 5
+ - Ch 5
  - Ch 8
  - Suria
  - Vasantham
  - CNA
  - Ch U
+ - GEM
  
  Mewatch
  - Global Trekker (gtc.sg)
  - Rock Action (ra.sg)
- - GEM
  - ROCK Entertainment (brent.sg)
  
  Singtel
